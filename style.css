@@ -20,3 +20,23 @@ body
     font-size: 22px;
 
 }
+.modal-dialog{
+    width: 90%;
+}
+h4{
+    width: 45%;
+    text-align: left;
+}
+#restart{
+    margin-top: 15px;
+}
+.footer{
+    background-color: gray;
+    bottom: 0;
+    position: fixed;
+    color: white;
+    width: 100%;
+    text-align: center;
+    font-size: 30px;
+    box-shadow: 5px 5px 5px white;
+}
